@@ -1,3 +1,3 @@
 This is Java NMS Project 
-Helo , Welcome!
+Hello , Welcome!
 This repo also contains feature documentation for project.
